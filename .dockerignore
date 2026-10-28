@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.git/
+.github/
+datasets/
+*.csv
+.env
+model/xgboost_poker-test-*.joblib
