@@ -1,12 +1,15 @@
+# Python
 .venv/
 __pycache__/
-*.pyc
+*.py[cod]
 
-# Datasets generados localmente
+# Datasets y modelos locales
 datasets/
-
-# Modelos entrenados localmente
 model/
 
-# Variables de entorno y credenciales
+# Credenciales locales
 .env
+
+# React / Node.js
+node_modules/
+dist/
