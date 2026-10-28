@@ -1,3 +1,12 @@
 .venv/
 __pycache__/
 *.pyc
+
+# Datasets generados localmente
+datasets/
+
+# Modelos entrenados localmente
+model/
+
+# Variables de entorno y credenciales
+.env
